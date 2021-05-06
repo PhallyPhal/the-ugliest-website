@@ -1,0 +1,31 @@
+* {
+    background: pink;
+    box-sizing: border-box;
+}
+body { 
+    text-align: center;
+    
+}
+#title,h1{
+    min-width: 100%;
+    border-radius: 3px;
+    border-bottom: 5px solid teal;
+    background: teal;
+    font-size: 2em;
+    text-align: center;
+}
+
+#content {
+    font-size: 1.75em;
+    padding:50px;
+    background-color:pink;
+}
+
+#alter {
+    font-size: 2.25em;
+}
+
+#button1 {
+    background-color: teal;
+    color: white;
+}
